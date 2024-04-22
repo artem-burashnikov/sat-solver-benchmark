@@ -29,14 +29,9 @@ Open the terminal and follow these steps:
    source .venv/bin/activate
    ```
 
-4. Install Jupyter library:
+4. Install all necessary libraries:
    ```shell
-   pip install jupyter
-   ```
-
-5. Open the notebook:
-   ```shell
-   jupyter notebook sat-solver-benchmark.ipynb
+   pip install -r requirements.txt
    ```
 
 ## License
